@@ -1,0 +1,6 @@
+このファイルの改行コードは CR+LF である。
+
+Windows の git config のデフォルト設定は core.autocrlf=true なので、
+GitHub に push されるとき自動的に改行コードは LF に変換される。
+
+
